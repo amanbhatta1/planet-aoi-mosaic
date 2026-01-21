@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Data (prevent large/private uploads)
+data/*
+!data/aoi_example.geojson
